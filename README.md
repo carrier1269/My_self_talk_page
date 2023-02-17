@@ -27,7 +27,8 @@ part 1~6
 
 
 # 눈 객체 탐지 모델
-eye_cascade = cv2.CascadeClassifier('haar/haarcascade_eye.xml')
+eye_cascade = cv2.CascadeClassifier('haar/haarcascade_eye.xml') 
+### 하르분류기 모델이다
 https://github.com/rk45825243/Face-eye-detection-using-Haar-Cascade-classifier/blob/master/Face%20and%20eye%20detect%20using%20haar%20cascade.py
 
 roi parameter에 하르 분류기 - 얼굴 탐지 대신에 mask얼굴 탐지모델을 활용하여 얻은 좌표값을 대입하여
