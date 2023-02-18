@@ -36,3 +36,8 @@ roi parameter에 하르 분류기 - 얼굴 탐지 대신에 mask얼굴 탐지모
 
 눈을 탐지하고, 그에 따른 점수 표기방식을 하는데 참조한 논문
 https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+
+![image](https://user-images.githubusercontent.com/58325946/219863900-f412a9eb-6313-41d1-82a0-75cdfc45a8d0.png)
+
+### 우리 프로젝트를 괴롭혔던 RN 비동기 문제,,, 드디어 해결했다 모든 오류를 해결했다!! 2023-02-18 오후 8:46
+
