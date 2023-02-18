@@ -35,7 +35,9 @@ roi parameter에 하르 분류기 - 얼굴 탐지 대신에 mask얼굴 탐지모
 마스크가 착용하여도 눈 검출이 가능하도록 기존의 기능을 직접 개조하였다.
 
 눈을 탐지하고, 그에 따른 점수 표기방식을 하는데 참조한 논문
+
 https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
 
 ![image](https://user-images.githubusercontent.com/58325946/219863900-f412a9eb-6313-41d1-82a0-75cdfc45a8d0.png)
 
