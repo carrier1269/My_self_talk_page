@@ -34,7 +34,7 @@ https://github.com/rk45825243/Face-eye-detection-using-Haar-Cascade-classifier/b
 roi parameter에 하르 분류기 - 얼굴 탐지 대신에 mask얼굴 탐지모델을 활용하여 얻은 좌표값을 대입하여
 마스크가 착용하여도 눈 검출이 가능하도록 기존의 기능을 직접 개조하였다.
 
-눈을 탐지하고, 그에 따른 점수 표기방식을 하는데 참조한 논문
+### 눈을 탐지하고, 그에 따른 점수 표기방식을 하는데 참조한 논문
 
 https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
 http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
