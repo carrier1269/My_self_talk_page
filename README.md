@@ -20,6 +20,7 @@ from vision.ssd.mb_tiny_RFB_fd import create_Mb_Tiny_RFB_fd, create_Mb_Tiny_RFB_
 
 # 합성 라이브러리
 cv2.seamlessclone
+https://pysource.com/2019/05/28/face-swapping-explained-in-8-steps-opencv-with-python/
 
 # opencv-python 라이브러리의 seamlessclone 함수를 활용하여 기존 딥페이크 기술을 개조하는데 참고한 영상
 https://pysource.com/2019/04/04/face-swapping-opencv-with-python-part-1/
